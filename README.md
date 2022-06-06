@@ -1,4 +1,4 @@
-# Tomocube Timepoint Classification 
+# OOP Tutorial
 - Author: JongHyun Kim
 - Youtube : https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=1s
 
